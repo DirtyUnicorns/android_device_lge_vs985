@@ -1,6 +1,6 @@
 $(call inherit-product, device/lge/vs985/full_vs985.mk)
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/du/config/common_full_phone.mk)
+$(call inherit-product, vendor/du/config/nfc_enhanced.mk)
 
 TARGET_SCREEN_WIDTH := 1440
 TARGET_SCREEN_HEIGHT := 2560

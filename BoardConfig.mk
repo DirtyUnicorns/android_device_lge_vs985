@@ -25,7 +25,7 @@ BLUETOOTH_HCI_USE_MCT := true
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/vs985/bluetooth
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_vs985_defconfig
+TARGET_KERNEL_CONFIG := du_vs985_defconfig
 TARGET_REQUIRES_BUMP := true
 
 # Partitions
